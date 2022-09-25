@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
 * Description: print out a string to stdout
+*
 * Return: 0 if successful
 */
 int main(void)
